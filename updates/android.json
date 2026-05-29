@@ -1,14 +1,14 @@
 {
   "platform": "android",
-  "latestVersionCode": 8,
-  "latestVersionName": "1.0.7",
-  "minSupportedVersionCode": 8,
+  "latestVersionCode": 9,
+  "latestVersionName": "1.0.8",
+  "minSupportedVersionCode": 9,
   "forceUpdate": true,
-  "apkUrl": "https://github.com/GENO-Wellness/genosteps-download/raw/main/downloads/GENO-Steps-v1.0.7.apk",
-  "sha256": "c815e6bb0455b0659a389878c22e2a5c3925915d3cc55584f4cf3168c63a200a",
+  "apkUrl": "https://github.com/GENO-Wellness/genosteps-download/raw/main/downloads/GENO-Steps-v1.0.8.apk",
+  "sha256": "f4e6a4d024b660bb4c1ce8fd5ff23b188d81d1cdb46d06fb6165f65697a766e8",
   "releaseNotes": [
-    "Home messages now respond to your real step progress",
-    "Zero-step days now show a ready-to-start state",
-    "Invite codes now support GENO-style hyphenated codes"
+    "Country selection now focuses on Kenya, Uganda, and Tanzania",
+    "Improved profile and registration country choices",
+    "Includes the latest GENO Steps fixes"
   ]
 }
