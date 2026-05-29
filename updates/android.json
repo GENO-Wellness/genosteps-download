@@ -1,14 +1,14 @@
 {
   "platform": "android",
-  "latestVersionCode": 6,
-  "latestVersionName": "1.0.5",
-  "minSupportedVersionCode": 6,
+  "latestVersionCode": 7,
+  "latestVersionName": "1.0.6",
+  "minSupportedVersionCode": 7,
   "forceUpdate": true,
-  "apkUrl": "https://github.com/GENO-Wellness/genosteps-download/raw/main/downloads/GENO-Steps-v1.0.5.apk",
-  "sha256": "94e1a80730f46d91be1d90ecf50bb6cb2a21a6a9af7f63f940a93c2ebab061f4",
+  "apkUrl": "https://github.com/GENO-Wellness/genosteps-download/raw/main/downloads/GENO-Steps-v1.0.6.apk",
+  "sha256": "8d4edef27d8058e221528739bacb94fb41eadb79938a4f8f66e1a19ad96860b1",
   "releaseNotes": [
-    "Registration now uses a country picker",
-    "Profile setup now uses a country picker",
-    "Improved onboarding validation"
+    "Edit profile now includes bio",
+    "Bio appears on the profile screen",
+    "Profile data sync has been improved"
   ]
 }
