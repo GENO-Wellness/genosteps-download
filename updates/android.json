@@ -1,15 +1,14 @@
 {
   "platform": "android",
-  "latestVersionCode": 4,
-  "latestVersionName": "1.0.3",
-  "minSupportedVersionCode": 4,
+  "latestVersionCode": 5,
+  "latestVersionName": "1.0.4",
+  "minSupportedVersionCode": 5,
   "forceUpdate": true,
-  "apkUrl": "https://github.com/GENO-Wellness/genosteps-download/raw/main/downloads/GENO-Steps-v1.0.3.apk",
-  "sha256": "2effce448b23daecb6b8c3716f56bef6794a72f644c837a68453b6d762ce44c0",
+  "apkUrl": "https://github.com/GENO-Wellness/genosteps-download/raw/main/downloads/GENO-Steps-v1.0.4.apk",
+  "sha256": "4947b52d16d42b243bb29e76e5dbd047f01c29d009dd00200286f9396c0701f2",
   "releaseNotes": [
-    "Required update checks on app startup",
-    "Force update screen for unsupported versions",
-    "GitHub-hosted update policy support",
-    "Google sign-in support"
+    "Calories now require age and weight",
+    "Age and weight are collected during onboarding",
+    "Calories use profile-based estimates"
   ]
 }
