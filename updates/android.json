@@ -1,14 +1,14 @@
 {
   "platform": "android",
-  "latestVersionCode": 7,
-  "latestVersionName": "1.0.6",
-  "minSupportedVersionCode": 7,
+  "latestVersionCode": 8,
+  "latestVersionName": "1.0.7",
+  "minSupportedVersionCode": 8,
   "forceUpdate": true,
-  "apkUrl": "https://github.com/GENO-Wellness/genosteps-download/raw/main/downloads/GENO-Steps-v1.0.6.apk",
-  "sha256": "8d4edef27d8058e221528739bacb94fb41eadb79938a4f8f66e1a19ad96860b1",
+  "apkUrl": "https://github.com/GENO-Wellness/genosteps-download/raw/main/downloads/GENO-Steps-v1.0.7.apk",
+  "sha256": "c815e6bb0455b0659a389878c22e2a5c3925915d3cc55584f4cf3168c63a200a",
   "releaseNotes": [
-    "Edit profile now includes bio",
-    "Bio appears on the profile screen",
-    "Profile data sync has been improved"
+    "Home messages now respond to your real step progress",
+    "Zero-step days now show a ready-to-start state",
+    "Invite codes now support GENO-style hyphenated codes"
   ]
 }
