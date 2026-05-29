@@ -4,7 +4,7 @@ Move more. Compete with friends. Stay connected to GENO Wellness.
 
 ## Download
 
-[Download GENO Steps for Android](https://github.com/GENO-Wellness/genosteps-download/raw/main/downloads/GENO-Steps-v1.0.10.apk)
+[Download GENO Steps for Android](https://github.com/GENO-Wellness/genosteps-download/raw/main/downloads/GENO-Steps-v1.0.11.apk)
 
 Tap the download button above on your Android phone. After the download finishes, open the file to install GENO Steps.
 
