@@ -1,0 +1,15 @@
+{
+  "platform": "android",
+  "latestVersionCode": 4,
+  "latestVersionName": "1.0.3",
+  "minSupportedVersionCode": 4,
+  "forceUpdate": true,
+  "apkUrl": "https://github.com/GENO-Wellness/genosteps-download/raw/main/downloads/GENO-Steps-v1.0.3.apk",
+  "sha256": "2effce448b23daecb6b8c3716f56bef6794a72f644c837a68453b6d762ce44c0",
+  "releaseNotes": [
+    "Required update checks on app startup",
+    "Force update screen for unsupported versions",
+    "GitHub-hosted update policy support",
+    "Google sign-in support"
+  ]
+}
