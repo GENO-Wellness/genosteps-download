@@ -1,14 +1,14 @@
 {
   "platform": "android",
-  "latestVersionCode": 9,
-  "latestVersionName": "1.0.8",
-  "minSupportedVersionCode": 9,
+  "latestVersionCode": 10,
+  "latestVersionName": "1.0.9",
+  "minSupportedVersionCode": 10,
   "forceUpdate": true,
-  "apkUrl": "https://github.com/GENO-Wellness/genosteps-download/raw/main/downloads/GENO-Steps-v1.0.8.apk",
-  "sha256": "f4e6a4d024b660bb4c1ce8fd5ff23b188d81d1cdb46d06fb6165f65697a766e8",
+  "apkUrl": "https://github.com/GENO-Wellness/genosteps-download/raw/main/downloads/GENO-Steps-v1.0.9.apk",
+  "sha256": "408306149e922eabc6fcb443b01ecfe40c55324c208f393f8134f53333e26933",
   "releaseNotes": [
-    "Country selection now focuses on Kenya, Uganda, and Tanzania",
-    "Improved profile and registration country choices",
-    "Includes the latest GENO Steps fixes"
+    "Competition creators can invite people by email",
+    "Only competition creators can see invite codes",
+    "Email invites include the invite code and app download link"
   ]
 }
