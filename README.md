@@ -22,3 +22,7 @@ If your phone asks for permission to install the app, allow installation from yo
 ## Need Help?
 
 Contact GENO Wellness support if you have trouble installing or signing in.
+
+---
+
+© 2026 [Vinetech Digital LLC](https://vinetech.co.ke/). All rights reserved.
