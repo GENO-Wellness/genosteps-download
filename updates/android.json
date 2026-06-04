@@ -1,11 +1,11 @@
 {
   "platform": "android",
-  "latestVersionCode": 17,
-  "latestVersionName": "1.0.16",
-  "minSupportedVersionCode": 17,
+  "latestVersionCode": 18,
+  "latestVersionName": "1.0.17",
+  "minSupportedVersionCode": 18,
   "forceUpdate": true,
-  "apkUrl": "https://github.com/GENO-Wellness/genosteps-download/raw/main/downloads/GENO-Steps-v1.0.16.apk",
-  "sha256": "e74263018c5a7b9379330fc11c8ea78e00aa01b858da5ddf250a66d285ae6c5b",
+  "apkUrl": "https://github.com/GENO-Wellness/genosteps-download/raw/main/downloads/GENO-Steps-v1.0.17.apk",
+  "sha256": "bbfbd110ca41a3e00acb4d58407cf904d945c987edfff60b9b9ffde70783eae6",
   "releaseNotes": [
     "Rebuilt GENO Steps with the latest app updates",
     "Includes competition invite and notification improvements",
