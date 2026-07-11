@@ -1,11 +1,11 @@
 {
   "platform": "android",
-  "latestVersionCode": 32,
-  "latestVersionName": "1.0.31",
-  "minSupportedVersionCode": 32,
+  "latestVersionCode": 33,
+  "latestVersionName": "1.0.32",
+  "minSupportedVersionCode": 33,
   "forceUpdate": true,
-  "apkUrl": "https://github.com/GENO-Wellness/genosteps-download/raw/main/downloads/GENO-Steps-v1.0.31.apk",
-  "sha256": "376c02f182d85f9b3d3157585ed3249148678786c6e27e583fe45cfab4bdd2a0",
+  "apkUrl": "https://github.com/GENO-Wellness/genosteps-download/raw/main/downloads/GENO-Steps-v1.0.32.apk",
+  "sha256": "0887e1d41f115ec648a2fc57f2e09153f75580b5678801728a2183011f5202df",
   "releaseNotes": [
     "Rebuilt GENO Steps with the latest app updates",
     "Includes competition invite and notification improvements",
